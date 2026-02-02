@@ -1,0 +1,11 @@
+# Información del sitio
+title: Mi Proyecto OnePage
+description: Una descripción breve de lo que trata tu página.
+show_downloads: true # Muestra botones de descarga si es un repo público
+
+# Configuración del Tema
+# Puedes elegir: jekyll-theme-minimal, jekyll-theme-cayman, jekyll-theme-slate, etc.
+theme: jekyll-theme-minimal
+
+# Si usas un dominio personalizado (opcional)
+# url: "https://tu-dominio.com"
